@@ -5,5 +5,8 @@ The goal of this project was to take earthquake data from the last 7 days and us
 
 Example of how the map will look when presented to the user: <br> <br> ![image](https://user-images.githubusercontent.com/60283799/184034978-be6dd8ea-c674-41f8-8367-f380abff10ec.png)
 
-## Accessing Map 
-The map is displayed on the following webpage: 
+## Accessing Map and Resources
+The map is displayed on the following webpage: https://miguelb512.github.io/Mapping_Earthquakes/
+
+Resources used:
+- [Earthquake Data] 
