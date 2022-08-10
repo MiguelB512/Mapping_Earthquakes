@@ -9,5 +9,5 @@ Example of how the map will look when presented to the user: <br> <br> ![image](
 The map is displayed on the following webpage: https://miguelb512.github.io/Mapping_Earthquakes/
 
 Resources used:
-- Earthquake Data: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
-- Tectonic Plate Data: https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
+- Earthquake Data: <br> https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
+- Tectonic Plate Data: <br> https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
